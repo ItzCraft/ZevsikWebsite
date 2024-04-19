@@ -1,2 +1,2 @@
 # ZevsikWebsite
-Website was create by ItzCraft
+Website was createn by ItzCraft
